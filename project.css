@@ -1,0 +1,20 @@
+.firstproject{
+    border: 5px solid black ;
+    
+}
+.secondproject{
+    border: 5px solid black;
+    
+}
+.mainproject{
+    display: flex; 
+    /* justify-content: space-between; */
+    justify-content: center;
+}
+.thirdproject{
+    border: 5px solid black;
+}
+.mainproject img{
+    height: 300px;
+    width: 300px ;
+}

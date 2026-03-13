@@ -1,0 +1,21 @@
+.maindiv {
+    display: flex;
+    justify-content: space-between;
+
+}
+.contact{
+    margin-left: 200px;
+}
+.logo img{
+    height: 50px;
+    width: 50px;
+    
+    
+}
+.logo{
+    display: flex;
+ position: relative;
+ left: 30%;
+ gap: 10%;
+
+}

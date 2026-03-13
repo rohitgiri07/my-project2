@@ -1,0 +1,23 @@
+.main{
+    background-color: grey;
+    border: 2px solid black;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px 10px black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+  
+}
+
+
+
+
+.aa{
+    background-color: white;
+}
+
+.aa:hover{
+    background-color: aqua;
+}
+.border{
+    border: 2px solid black;
+}
